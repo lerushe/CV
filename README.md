@@ -1,7 +1,7 @@
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tcibinan/CV?style=for-the-badge)](https://github.com/tcibinan/CV/releases) 
-[![Download PDF](https://img.shields.io/badge/download-PDF-green.svg?style=for-the-badge)](https://github.com/tcibinan/CV/raw/gh-pages/cv.pdf)
-[![Download PNG](https://img.shields.io/badge/download-PNG-green.svg?style=for-the-badge)](https://github.com/tcibinan/CV/raw/gh-pages/cv.png)
-![CV preview](https://github.com/tcibinan/CV/raw/gh-pages/cv.png)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/lerushe/CV?style=for-the-badge)](https://github.com/lerushe/CV/releases) 
+[![Download PDF](https://img.shields.io/badge/download-PDF-green.svg?style=for-the-badge)](https://github.com/lerushe/CV/raw/gh-pages/cv.pdf)
+[![Download PNG](https://img.shields.io/badge/download-PNG-green.svg?style=for-the-badge)](https://github.com/lerushe/CV/raw/gh-pages/cv.png)
+![CV preview](https://github.com/lerushe/CV/raw/gh-pages/cv.png)
 
 ## Credits
 
