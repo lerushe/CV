@@ -2,7 +2,7 @@ name: Build documents
 on: 
   push:
     branches:
-      update-cv-exp
+      master
 permissions: write-all
 
 jobs:
